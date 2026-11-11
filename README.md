@@ -1,4 +1,6 @@
-## Hi there 👋
+<img width="1280" height="320" alt="z0-github-profile-readme-1280x320" src="https://github.com/user-attachments/assets/701a9b28-d26d-4fd4-835e-e50177f4bffc" />
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+<p>Welcome to my page! </br> I'm z0, from  <img src="https://cdn-icons-png.flaticon.com/512/16022/16022729.png" width="13"/> <b>Spain</b>, currently studying  <img src="https://cdn-icons-png.flaticon.com/512/1865/1865273.png" width="13"/> <b>IT Systems and Network Administration</b>. </p>
 
 <!--
 **gitzetazero/gitzetazero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
